@@ -33,7 +33,7 @@ ex.
 
 자율,플밍,,체육,컴일    -> 7교시
 
-![스크린샷 2024-07-25 165937](https://github.com/user-attachments/assets/aeaee7e9-fe25-47f7-bcd8-fae36940a175)
+<img src="https://github.com/user-attachments/assets/aeaee7e9-fe25-47f7-bcd8-fae36940a175"  width="700" height="370">
 
 ---
 
